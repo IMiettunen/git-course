@@ -1,2 +1,2 @@
 # git-course
-# Practicing use of nano
+# Goal is to practice the use of git
